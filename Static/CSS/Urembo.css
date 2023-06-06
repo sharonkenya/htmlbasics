@@ -1,0 +1,74 @@
+ul{
+  list-style-type: none;
+  background-color: orange;
+  overflow: hidden;
+  float-defer-column: inherit;
+  text-align-all: center;
+  padding: 10px;
+  font-family: "DejaVu Sans Mono";
+  font: historical-ligatures;
+}
+li{
+  float: left;
+}
+li,a{
+  padding: 15px;
+  display: block;
+  color: white;
+  font-family: "DejaVu Sans Mono";
+  font: bolder;
+}
+li,a:hover{
+  color: red;
+}
+.fruits{
+  background-color: green;
+  border: 2px solid red;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "DejaVu Sans Mono";
+
+}
+.cars{
+  background-color: mediumvioletred;
+  border: 2px solid green;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: KacstOffice;
+}
+.FRUITS{
+  background-color: hotpink;
+  border: 2px solid brown;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Navilu;
+}
+#gari{
+  background-color: navajowhite;
+  border: 2px solid brown;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Navilu;
+
+}
+#matunda{
+  background-color: navajowhite;
+  border: 2px solid brown;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "DejaVu Sans Mono";
+}
+#watoto{
+  background-color: navajowhite;
+  border: 2px solid brown;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Navilu;
+}
+
